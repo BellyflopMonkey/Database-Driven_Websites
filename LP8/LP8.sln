@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "LP8", "LP8\LP8.phpproj", "{01EEA66A-A92E-42C0-8390-5AA52DCAD1E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01EEA66A-A92E-42C0-8390-5AA52DCAD1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01EEA66A-A92E-42C0-8390-5AA52DCAD1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01EEA66A-A92E-42C0-8390-5AA52DCAD1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01EEA66A-A92E-42C0-8390-5AA52DCAD1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E78EF4FB-FE6B-4EAD-B96E-62D817154BBB}
+	EndGlobalSection
+EndGlobal
